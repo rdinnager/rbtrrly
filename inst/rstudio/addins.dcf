@@ -1,0 +1,5 @@
+Name: Insert Function Source
+Description: Insert the source for the selected function in the active document.
+Binding: insert_function_source
+Interactive: false
+
